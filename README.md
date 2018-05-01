@@ -1,8 +1,8 @@
 # Poseidon
-Shell script to install a [Poseidon Masternode](http://poseidon.network/) on a Linux server running Ubuntu 16.04.  
+Shell script to install a [Poseidon Masternode](http://posq.io/) on a Linux server running Ubuntu 16.04.  
 This script will install **poseidon v1.0**.
 ***
-# Vultr VPS Recommended
+## Vultr VPS Recommended
 [Believe Me, I have Tried Everything. Click Here for Vultr](https://www.vultr.com/?ref=7410771)
 ***
 ## Installation:
